@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/cross-exec.svg)](https://www.npmjs.com/package/cross-exec)
+
 # cross-exec
 Simple script to identify platform and execute further npm scripts, such as build scripts (for example), by platform.
 
@@ -22,3 +24,6 @@ Let say you have build npm scripts for 3 platforms and you want to create 4th sc
 ```
 
 Script finds by `proccess.platform` which is the current platform. Then executes command value passed by argument with the same platform name. This gives you ability to **auto** build based on what platform you are working right now.
+
+# License
+[MIT License](LICENSE)

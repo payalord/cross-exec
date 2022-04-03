@@ -1,5 +1,5 @@
 /*!
- * cross-exec v1.0.0
+ * cross-exec v1.0.1
  * Copyright (c) 2022 Azat Ahmedov <payalord@gmail.com>
  * MIT License
  */

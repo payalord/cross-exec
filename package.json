@@ -1,6 +1,6 @@
 {
   "name": "cross-exec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple script to identify and execute further scripts by platform",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/payalord/cross-platform.git"
+    "url": "git+https://github.com/payalord/cross-exec.git"
   },
   "keywords": [
     "cross",
@@ -25,7 +25,7 @@
   "author": "Azat Ahmedov <payalord@gmail.com> (https://payalord.github.io)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/payalord/cross-platform/issues"
+    "url": "https://github.com/payalord/cross-exec/issues"
   },
-  "homepage": "https://github.com/payalord/cross-platform#readme"
+  "homepage": "https://github.com/payalord/cross-exec#readme"
 }
