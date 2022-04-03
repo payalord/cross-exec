@@ -1,5 +1,5 @@
 {
-  "name": "cross-platform",
+  "name": "cross-exec",
   "version": "1.0.0",
   "description": "Simple script to identify and execute further scripts by platform",
   "main": "index.js",
@@ -13,10 +13,14 @@
   "keywords": [
     "cross",
     "platform",
+    "execution",
+    "exec",
+    "spawn",
     "os",
     "npm",
     "script",
-    "cli"
+    "cli",
+    "command"
   ],
   "author": "Azat Ahmedov <payalord@gmail.com> (https://payalord.github.io)",
   "license": "MIT",
