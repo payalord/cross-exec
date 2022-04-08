@@ -1,6 +1,6 @@
 {
   "name": "cross-exec",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple script to identify and execute further scripts by platform",
   "main": "index.js",
   "scripts": {
